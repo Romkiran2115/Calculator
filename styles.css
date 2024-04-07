@@ -1,0 +1,27 @@
+
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black; /* Set background color to black */
+    color: white; /* Set font color to white */
+}
+
+#display {
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    background-color: #333; /* Darker background for display */
+    color: white; /* Font color for display */
+}
+
+.buttons button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 18px;
+    background-color: #444; /* Darker button background */
+    color: white; /* Font color for buttons */
+    border: none; /* Remove button border */
+}
